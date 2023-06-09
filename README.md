@@ -89,4 +89,4 @@ npm start
 This website uses icons from font awesome.
 Learn this whole model by scratch from NULLCLASS.
 
-Made with ❤️ by [@Harshit](https://twitter.com/harshitjoc20)
+Made with ❤️ by [@Harshit](https://linkedin.com/harshitjoc)
