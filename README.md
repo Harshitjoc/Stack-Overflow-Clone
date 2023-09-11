@@ -27,7 +27,7 @@ Step 1:
 Create MongoDb Account and setup the environment
     Note: Go for free setup
 *StepByStep Setup Of Environment
-![Screenshot (37)](../Screenshots/3.png)
+![Screenshot (37)](../main/Screenshots/3.png)
 <img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/3.png">
 <img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/4.png">
 <img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/5.png">
