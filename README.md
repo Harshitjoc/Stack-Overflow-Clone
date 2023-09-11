@@ -28,14 +28,13 @@ Create MongoDb Account and setup the environment
     Note: Go for free setup
 *StepByStep Setup Of Environment
 ![Screenshot (37)](../main/Screenshots/3.png)
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/3.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/4.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/5.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/6.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/7.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/8.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/9.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/10.png">
+![Screenshot (37)](../main/Screenshots/4.png)
+![Screenshot (37)](../main/Screenshots/5.png)
+![Screenshot (37)](../main/Screenshots/6.png)
+![Screenshot (37)](../main/Screenshots/7.png)
+![Screenshot (37)](../main/Screenshots/8.png)
+![Screenshot (37)](../main/Screenshots/9.png)
+![Screenshot (37)](../main/Screenshots/10.png)
 
 Wait for a while to load after that Now click on connect and copy connection string
 
@@ -43,9 +42,9 @@ Wait for a while to load after that Now click on connect and copy connection str
 CONNECTION_URL = "Mongo db url"
 ```
 
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/11.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/12.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/13.png">
+![Screenshot (37)](../main/Screenshots/11.png)
+![Screenshot (37)](../main/Screenshots/12.png)
+![Screenshot (37)](../main/Screenshots/13.png)
 
 
 Paste it on .env file created below in replace of ["Mongo db url"]
@@ -71,7 +70,7 @@ Load it in Vscode and open terminal and split the terminal.
 
 Step 4:
 Open Client | Server and then run.
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/2.png">
+![Screenshot (37)](../main/Screenshots/2.png)
 
 - Start App using the command from client and server side both
 
@@ -80,9 +79,9 @@ npm start
 ```
 
 ## DataBase
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/14.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/15.png">
-<img src="https://github.com/Harshitjoc/StackOverflow-Clone/blob/main/Screenshots/16.png">
+![Screenshot (37)](../main/Screenshots/14.png)
+![Screenshot (37)](../main/Screenshots/15.png)
+![Screenshot (37)](../main/Screenshots/16.png)
 
 
 ## Credits
