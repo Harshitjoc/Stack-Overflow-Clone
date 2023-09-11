@@ -87,6 +87,5 @@ npm start
 ## Credits
 
 This website uses icons from font awesome.
-Learn this whole model by scratch from NULLCLASS.
 
 Made with ❤️ by [@Harshit](https://www.linkedin.com/in/harshitjoc/)
